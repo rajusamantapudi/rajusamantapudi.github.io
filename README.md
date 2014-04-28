@@ -1,2 +1,0 @@
-charlesdguthrie.github.io
-=========================
