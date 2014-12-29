@@ -1,11 +1,11 @@
 body {
   padding-top: 50px;
 }
-h1 {
-	padding-top: 30px;
-}
 h2 {
 	padding-top: 20px;
+}
+.section{
+	margin-bottom: 100px;
 }
 .starter-template {
   padding: 40px 15px;
@@ -38,5 +38,5 @@ a.anchor {
 	visibility: hidden;
 }
 .bottomFiller{
-	height:500px;
+	height:300px;
 }
