@@ -1,5 +1,5 @@
 body {
-  padding-top: 50px;
+	padding-top: 50px;
 }
 h2 {
 	padding-top: 20px;
@@ -39,4 +39,10 @@ a.anchor {
 }
 .bottomFiller{
 	height:300px;
+}
+.counter{
+	font-family:"Open Sans","Times New Roman", Times, sans-serif;;
+}
+.faceText{
+	font-family:"Open Sans","Times New Roman", Times, sans-serif;;
 }
