@@ -4,6 +4,9 @@ body {
 h2 {
 	padding-top: 20px;
 }
+.navbar-inverse{
+	opacity: 0.8;
+}
 .section{
 	margin-bottom: 100px;
 }
