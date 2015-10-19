@@ -4,11 +4,14 @@ body {
 h2 {
 	padding-top: 20px;
 }
+h1,h2,h3 {
+	text-align: center;
+}
 .navbar-inverse{
 	opacity: 0.8;
 }
 .section{
-	margin-bottom: 100px;
+	margin-bottom: 200px;
 }
 .starter-template {
   padding: 40px 15px;
@@ -19,7 +22,9 @@ h2 {
 	overflow:hidden;
 }
 .imgBox img {
-   width: 450px;
+   max-width: 450px;
+   height: auto;
+   width: 100%;
 }
 .inline-img {
 	height:1em;
@@ -31,7 +36,7 @@ h2 {
 }
 .project {
 	max-width:450px;
-	margin:0;
+	margin: 0 auto;
 	padding:0;
 }
 a.anchor {
@@ -48,4 +53,7 @@ a.anchor {
 }
 .faceText{
 	font-family:"Open Sans","Times New Roman", Times, sans-serif;;
+}
+.centered{
+	text-align: center;
 }
